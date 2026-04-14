@@ -4,7 +4,7 @@ Ich arbeite mit Daten, um klare und umsetzbare Insights zu entwickeln – mit SQ
 ## Skills & Tools
 **SQL:** PostgreSQL, BigQuery  
 **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-**Visualisierung:** Tableau, Amplitude, Excel  
+**Visualisierung:** Tableau, Power BI, Amplitude, Excel  
 **Analyse:** EDA, A/B-Tests, Regressionen, KPI-Design, Segmentierung
 
 **[Portfolio ansehen (PDF)](https://github.com/faina-dataanalytics/portfolio/blob/main/Portfolio_Datenanalystin_Faina_Kozyrieva.pdf)**
