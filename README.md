@@ -17,9 +17,10 @@ Ich verbinde langjährige Erfahrung im Berichtswesen, Monitoring und in der stru
 
 | Bereich | Technologien & Tools |
 | :--- | :--- |
-| **Sprachen & Daten** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery) |
-| **BI & Analytics** | Power BI, Tableau, Amplitude, Advanced Excel |
-| **Methoden & Fokus** | Business Analysis, KPI-Entwicklung, Kunden- & Produktanalytik, Machine Learning |
+| **Data Analytics** | Explorative Datenanalyse, statistische Auswertung, Kundensegmentierung |
+| **Programmierung & Datenbanken** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery) |
+| **BI & Visualisierung** | Power BI, Tableau, Excel, Amplitude |
+| **Berichtswesen & Monitoring** | KPI-Reporting, Datenkonsolidierung, Prozessstandardisierung, Qualitätsprüfung |
 | **Tools & OS** | Git / GitHub, Jupyter Notebook, VS Code, Bash |
 
 ---
