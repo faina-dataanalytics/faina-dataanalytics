@@ -8,7 +8,7 @@ Ich verbinde langjährige Erfahrung im Berichtswesen, Monitoring und in der stru
 ### Direktzugriff auf die Repositories
 
 - [**Data Analytics & Science**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting
-- [**Berichtswesen & Datenvisualisierung**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Kennzahlensystem, Datenaufbereitung & Data Storytelling
+- [**Berichtswesen & Ergebnisdarstellung**](https://github.com/faina-dataanalytics/berichtwesen-ergebnisdarstelung-portfolio) — Kennzahlensystem, Datenaufbereitung & Data Storytelling
 
 
 ---
