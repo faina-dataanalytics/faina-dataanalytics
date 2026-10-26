@@ -1,14 +1,15 @@
 # Faina Kozyrieva
-### Business Analyst | Data Analytics | Digital Transformation
+### Data Analytics | Berichtswesen
 
-Ich arbeite an der Schnittstelle von Business, Daten und Technologie – mit dem Ziel, komplexe Anforderungen in strukturierte Erkenntnisse, skalierbare Modelle und praxistaugliche Lösungen zu übersetzen.
+Ich verbinde langjährige Erfahrung im Berichtswesen, Monitoring und in der strukturierten Aufbereitung von Informationen mit aktuellen Kompetenzen in Data Analytics. Mein Fokus liegt auf der Analyse von Kennzahlen, der Standardisierung von Reporting-Prozessen und der verständlichen Darstellung von Ergebnissen.
 
 ---
 
 ### Direktzugriff auf die Repositories
 
-- [**Business Analysis & AI Solutions**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Anforderungsanalyse, KI-gestützte Konzepte & Prozessoptimierung
-- [**Data Science & Analytics**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting
+- [**Data Analytics & Science**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting
+- [**Berichtswesen & Datenvisualisierung**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Kennzahlensystem, Datenaufbereitung & Data Storytelling
+
 
 ---
 
@@ -25,11 +26,11 @@ Ich arbeite an der Schnittstelle von Business, Daten und Technologie – mit dem
 
 ### Ausgewählte Projekte
 
-- [**Car Auction Risk Detection**](https://github.com/faina-dataanalytics/Predicting-Risky-Vehicle-Purchases) — Machine Learning (Klassifikation & Risikobewertung)
 - [**Instacart Customer Analytics & Segmentation**](https://github.com/faina-dataanalytics/Online-Einkaufsmuster-und-Kundensegmentierung-Python-) — EDA, Kundensegmentierung & Marketingempfehlungen in Python (Pandas & Seaborn)
 - [**Analyse der Flugperformance**](https://github.com/faina-dataanalytics/Flight-Punctuality-Temporal-Pattern-Analysis-Power-BI-) — Executive Dashboards in Power BI & Tableau
-- [**Influenza Analysis & Workforce Planning**]() — Multi-Source-Datenintegration, KPI-Entwicklung & Risikomodellierung (Tableau Dashboard)
-
+- [**Influenza Analysis & Workforce Planning**](https://github.com/faina-dataanalytics/Personalplanung-zur-Grippesaison-Tableau-Statistik-) — Multi-Source-Datenintegration, KPI-Entwicklung & Risikomodellierung (Tableau Dashboard)
+- [**Jahresberichte erstellen und Kennzahlen aufbereiten**](https://github.com/faina-dataanalytics/standardization-of-corporate-reporting) — Strukturierte Aufbereitung von Kennzahlen und Arbeitsergebnissen
+- [**Digitalisierung und Standardisierung der Medienberichterstattung**](https://github.com/faina-dataanalytics/prozess_mediazvit) — Konzeption eines standardisierten digitalen Berichtssystems und einheitlichen KPI-Strukturen
 ---
 
 ### Kontakt
